@@ -1,0 +1,1 @@
+EclipseCTF{gopher_is_fun_like_in_aquapark}

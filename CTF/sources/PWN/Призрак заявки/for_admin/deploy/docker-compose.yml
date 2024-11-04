@@ -1,0 +1,9 @@
+version: '3'
+services:
+  challenge:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:12345"
+    restart: always
