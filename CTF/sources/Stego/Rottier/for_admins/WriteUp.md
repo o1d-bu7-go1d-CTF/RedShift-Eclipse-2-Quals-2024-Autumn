@@ -60,4 +60,6 @@ reverse_rotate_image_blocks(rotated_image_path, 64)
 
 ![](assets/Rottier-2.png)
 
+Либо используйте Photoshop :)
+
 Flag: `EclipseCTF{c4nt_turn_84ck_th3_y34r5}`

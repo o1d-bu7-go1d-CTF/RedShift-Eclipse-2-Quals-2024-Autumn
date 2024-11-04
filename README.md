@@ -2,7 +2,7 @@
 
 Date and time of the qualifying competitions: с 03.11.2024 до 04.11.2024 (с 12:00 до 12:00 MSK (24 часа))
 
-Organizers: **Колледж Программирования и Кибербезопасности**
+Organizers: **Колледж Программирования и Кибербезопасности (College of Programming and Cybersecurity)**
 
 CTFTime: https://ctftime.org/event/2541
 
